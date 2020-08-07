@@ -12,7 +12,7 @@ public class Calc {
 		return a * b;
 	}
   
-  public static void div(int a , int b) {
+  public static int div(int a , int b) {
 		return a / b;
 	}
 	
